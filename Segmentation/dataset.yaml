@@ -1,0 +1,4 @@
+train: C:\Varun\yolov8_custom_segmentation\train
+val: C:\Varun\yolov8_custom_segmentation\test
+nc: 2
+names: ['Trees', 'Building']
